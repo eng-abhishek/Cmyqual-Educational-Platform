@@ -1,0 +1,4 @@
+[15-Jun-2021 12:24:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130027520 bytes) in /home/f5o8b68f46uw/public_html/app/Http/Auth/LoginController.php on line 76
+[15-Jun-2021 12:24:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130027520 bytes) in /home/f5o8b68f46uw/public_html/app/Http/Auth/LoginController.php on line 76
+[15-Jun-2021 12:24:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130027520 bytes) in /home/f5o8b68f46uw/public_html/app/Http/Auth/LoginController.php on line 76
+[15-Jun-2021 12:24:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130027520 bytes) in /home/f5o8b68f46uw/public_html/app/Http/Auth/LoginController.php on line 76

@@ -1,0 +1,3033 @@
+/******************************************
+    File Name: responsive.css
+    Template Name: EduPress
+    Created By: PSD Convert HTML Team
+    Envato Profile: http://themeforest.net/user/psdconverthtml
+    Website: https://psdconverthtml.com
+    Version: 1.0
+    Support: support@psdconverthtml.com
+/******************************************/
+
+@media(max-width:1024px)
+{
+    .add-field-of-study span a
+    {
+        position: relative;
+    }
+    .col-lg-6.col-md-6.col-sm-12.admin_user {
+        position: absolute;
+        bottom: 0;
+        width: 48.5%;
+        top: 270px;
+    }
+    .col-lg-6.col-md-6.col-sm-12.admin_user_password {
+        position: absolute;
+        bottom: 0;
+        width: 48.5%;
+        top: 360px;
+    }
+    .col-lg-9.col-md-9.col-sm-12.new_registration
+    {
+        bottom: 0;
+        top: 320px;
+    }
+    .nav.navbar-nav.navbar-right
+    {
+        padding-right: 20%;
+    }
+    .our-study-partner
+    {
+        margin: 0px 0;
+    }
+    .our-study-partner ul li {
+        display: inline-block;
+        width: 12%;
+    }
+    .get-a-new-job {
+        margin: 10% 0 0 0;
+    }
+    .get-a-new-job.enter-higher , .get-a-new-job.keep-your , .get-a-new-job.own-professional
+    {
+        margin: 0!important;
+    }
+    .single_courses_desc
+    {
+        height: 300px;
+    }
+    .single_courses_desc .title {
+        margin-bottom: 0px;
+        padding: 0 20px;
+    }
+    .demo .owl-controls
+    {
+        display: block!important;
+    }
+    .our-study-partner ul li img {
+        width: 100%;
+        margin: 0px 0px 0 0px;
+        display: block;
+        padding: 0 10px 0 10px;
+    }
+    .our-study-partner ul
+    {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .our-study-partner2
+    {
+        bottom: 59%;
+    }
+    .new-header h1
+    {
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .header-bg-img
+    {
+        height: 360px;
+        left: 42px;
+    }
+    .add-field-of-study span a .fa.fa-trash-o
+    {
+        position: absolute;
+        left: -53em;
+        z-index: 99999;
+        right: 0;
+        top: 83%;
+    }
+    .add-field-of-study.add-field-of-study2
+    {
+        margin-top: -30px;
+    }
+    .recent-learn.new-share
+  {
+    margin-top: 8%;
+  }
+  .add-new-box span.span1
+  {
+    padding: 5px 15px;
+    width: 100px;
+    margin-left: -20px;
+  }
+  .shared-logs-assesement.col-lg-12 {
+    padding-top: 10px;
+}
+.share-achievement-outer.share-achievement-outer1
+{
+    padding: 5px 0 55px 0;
+}
+    .recent-learn.cpd-table
+   {
+     margin-top: 65%;
+   }
+    .goal-box.goal-box1 ul li
+    {
+        margin-bottom: 10px;
+    }
+    .next-step.next-step1 {
+        right: 0px;
+        padding-top: 0px;
+    }
+    .change-career.change-career2.achievement
+    {
+        height: 300px;
+    }
+    .user-profile
+    {
+        max-width: 100%;
+    }
+    .tree2 , .tree3
+    {
+        left: 40px;
+    }
+    .tree4
+    {
+        left: 63%;
+    }
+    .achievment-tree-list.add-new {
+        height: 585px;
+    }
+    .hour-logged span
+    {
+        font-size: 12px;
+    }
+
+    .section
+    {
+        padding: 10px 0 10px 0;
+    }
+    .change-career .box
+    {
+        margin: 10px 0px 0 5px;
+    }
+    .change-career .box .chart
+    {
+        width: 75%;
+    }
+    .change-career span
+    {
+        font-size: 11px;
+    }
+    .about-widget h4, .widget-title h4, .profile-member h4
+    {
+        font-size: 15px;
+    }
+    .change-career .space a
+    {
+        padding: 5px 50px;
+    }
+    .change-career
+    {
+        height: 265px;
+    }
+    body.leftmenu #wrapper .container-fluid {
+        max-width: 100%;
+    }
+    .user-profile ul li input[type=date]
+    {
+        margin: 5px 0 0px 20px;
+        width: 81.5%;
+    }
+    .user-profile ul li select {
+        margin: 5px 0 0px 49px;
+        width: 77.55%;
+    }
+    .user-profile ul li input[type=url] {
+        margin: 5px 0 0px 41px;
+    }
+    .container-fluid ul li a .fa.fa-link
+    {
+        margin: 5px 0px 0px -25px;
+        position: absolute;
+    }
+    .create-password.user-profile ul li a .fa.fa-eye
+    {
+        margin: 5px 0px 0px -25px;
+        position: absolute;
+    }
+    .form-group label
+    {
+        font-size: 10px;
+    }
+    .breadcrumb
+    {
+        margin: 15px 20px 0 0px;
+    }
+    .user-profile ul li input[type=email] {
+        margin: 5px 0 0px 60px;
+        width: 82%;
+    }
+    .user-profile ul li input[type=text] {
+        margin: 5px 0 0px 57px;
+        width: 82%;
+    }    
+    .counter-wrapper
+    {
+        margin-bottom:15px;
+    }
+    .candidate-signup-form.step-by-step-form ul.nav.nav-tabs.responsive
+    {
+        margin-bottom: 25px!important;
+    }
+    .employer-link-page h3
+    {
+            font-size: 18px;
+    }
+    .employer-link-page , .employer-link-page.student-signup-link-page , .employer-link-page.learning-signup-link-page
+    {
+        height: auto;
+    }
+    p.lost-a-detail
+    {
+        display: block;
+        padding-top: 20%;
+        margin-left: 0;
+    }
+    .service-text-box
+    {
+        margin-top: 20px;
+    }
+    .candidate-signup-form .container {
+        width: 90%;
+    }
+    .candidate-signup-form textarea.textarea2
+    {
+        margin-left: 5px;
+        margin-top: -145px;
+    }
+    .candidate-signup-form textarea.textarea1
+    {
+        margin-left: 17px;
+    }
+    h5.create-dlpa ,  h5.a-detail
+    {
+        display: inline-block;
+        width: 100%;
+    }
+   
+    .counter-icon {
+        margin-right: 0;
+        text-align: center;
+    }
+    .counter-text h1{text-align: center;}
+    .counter-text h1 span.counter
+    {
+        display: contents;
+    }
+    .banner__content-inner {
+        margin-left: -3.5rem;
+    }
+    img.featurette__image.img-fluid.mx-auto {
+        padding-top: 56%;
+        padding-left: 55.95%;
+        width: 435px;
+        margin-left: 0px;
+    }
+    .featurette__text-sec {
+        padding-top: 55%;
+        padding-bottom: 40px;
+    }
+    h2.achievement-heading {
+        margin-top: 20%;
+    }
+    img.client-persona {
+        margin-top: -40%;
+    }
+    .achievement-right
+    {
+        float: right;
+    }
+    h2.client-persona-heading {
+        padding-top: 15%;
+    }
+    .dashboard-personal img {
+        width: 45%;
+    }
+    .partnership ul li
+    {
+        padding: 30px 17px 0 0px;
+    }
+    .achievement-left
+    {
+        
+    }
+    .counter-text span
+    {
+        margin:0 auto;
+        display:inherit;
+        text-align: center;
+    }
+    .change-career .box .chart.chart1 {
+        width: 15%;
+    }
+    .chart.chart1 span
+    {
+        padding-left: 7px;
+    }
+    .goal-box ul
+    {
+        margin-top: 45%;
+        margin-right: 0;
+    }
+    .goal-box ul.my
+    {
+        margin-top: 55%;
+        margin-right: 0;
+    }
+    .achievement-tree4
+    {
+        left: 44%;
+    }
+    li.goal-box-border .icon .fa.fa-check
+    {
+        padding: 4px;
+        top: 20px;
+        line-height: 7px;
+        font-size: 8px;
+        width: 15px;
+        height: 15px
+    }
+    .change-career.change-career2
+    {
+        height: auto;
+    }
+    .goal-box ul li
+    {
+        margin-right: 20px;
+    }
+    li.goal-box-border .icon
+    {
+        padding-top: 0px;
+    }
+    li.goal-box-border .icon .fa.fa-cog {
+        font-size: 15px;
+    }
+    li.goal-box-border h4
+    {
+        font-size: 12px;
+    }
+    li.goal-box-border span {
+        font-size: 12px;
+    }
+}
+@media (max-width: 1213px) {
+    .about-widget .customlist li {
+        width: 15%;
+    }
+    .friendbox img {
+        min-width: 100% !important;
+        float: none !important;
+    }
+}
+
+@media (max-width: 1000px) {
+    .container {
+        width: 100%;
+        max-width: 95%;
+    }
+    body.leftmenu #wrapper .container-fluid {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 920px) {
+    .hot {
+        display: none;
+    }
+    .container {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 875px) {
+    .onecourse .big-title {
+        padding-left: 0;
+        border: 0;
+    }
+    .section-signup {
+        margin-top: 30px;
+    }
+    .onecourse .big-title h2 {
+        font-size: 42px;
+    }
+    .navbar-right {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .add-field-of-study span a .fa.fa-trash-o
+    {
+        top: 84%;
+        left: -35em;
+    }
+    .col-lg-6.col-md-6.col-sm-12.admin_user {
+        position: absolute;
+        bottom: 0;
+        width: 96%;
+        top: 450px;
+    }
+    .col-lg-6.col-md-6.col-sm-12.admin_user_password {
+        position: absolute;
+        bottom: 0;
+        width: 96%;
+        top: 540px;
+    }
+    .col-lg-9.col-md-9.col-sm-12.new_registration {
+        bottom: 0;
+        top: 480px;
+    }
+    .candidate-signup-form img {
+        max-width: 60%;
+        margin-top: 110px;
+    }
+    .candidate-signup-form img.api-img {
+        max-width: 60%;
+        margin-top: 350px;
+        position: absolute;
+    }
+    .col-lg-9.col-md-9.col-sm-12.api-label
+    {
+        margin-top: 35%;
+    }
+    .our-study-partner2 {
+        bottom: 49%;
+        width: 100%;
+    }
+    .new-header-content
+    {
+        background-position: 150px 0;
+    }
+    .new-header {
+        padding: 10% 30px 0 30px;
+    }
+    .nav.navbar-nav.navbar-right
+    {
+        margin-top: -25px!important;
+    }
+    li.btn.btn-default.get-start-btn
+    {
+        bottom: -45px;
+    }
+    .dropdown-content
+    {
+        top: 46px;
+    }
+    .new-header h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .new-header-content p
+    {
+        font-size: 13px;
+        line-height: unset;
+    }
+    .header-bg-img {
+        height: 260px;
+        left: 452px;
+        width: 40%;
+        top: -210px;
+    }
+    .our-study-partner {
+        margin: -155px 0;
+    }
+    .our-study-partner ul li img
+    {
+        margin: -140px 0px 0 0px;
+    }
+    .get-a-new-job img {
+        width: 80%;
+    }
+    .get-a-new-job .content {
+        padding: 40px 0px 0 0;
+    }
+    .get-a-new-job h3
+    {
+        font-size: 20px;
+        margin-top: 0px;
+    }
+    .get-a-new-job.enter-higher
+    {
+        margin-top: 0!important;
+    }
+    .get-a-new-job , .empowering-career
+    {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+  
+    .get-a-new-job p
+    {
+        font-size: 12.5px;
+        letter-spacing: normal;
+    }
+    .empowering-career h3
+    {
+        font-size: 20px;
+    }
+    .empowering-career p
+    {
+        font-size: 15px;
+    }
+    .empowering-career .col-lg-6.col-md-6.col-sm-12
+    {
+        width:50%;
+    }
+    .empowering-career .col-lg-3.col-md-3.col-sm-12
+    {
+        width:25%;
+    }
+    .empowering-career .icon-img img
+    {
+        width:15%;
+    }
+    .empowering-career .icon-img h4
+    {
+        padding-left: 20%;
+    margin-top: -25px;
+    font-size: 15px;
+    }
+    .empowering-career .icon-img span
+    {
+        padding-left: 20%;
+    font-size: 13px;
+    margin-top: -35px;
+    }
+    .single_courses_desc {
+        height: auto;
+    }
+    .copyrights li a , .copylinks.reserved p , .check li p
+    {
+        font-size: 10px;
+    }
+     
+    .get-a-new-job .col-lg-6.col-md-6.col-sm-12
+    {
+        width: 50%;
+        float: left;
+    }
+    .add-new-box span.span1
+    {
+        margin-left: 0px;
+    }
+    .about-widget.clearfix.shared-widget
+    {
+        margin-top: 0px;
+    }
+    .tesla-box .col-lg-6.col-md-6.text-left
+    {
+        width: 50%;
+        float: left;
+    }
+    .tesla-box .col-lg-6.col-md-6.text-right
+    {
+        width: 50%;
+        float: right;
+    }
+    .team-member-name.cpd-list {
+        margin-left: 10px;
+    }
+    .recent-learn.cpd-table {
+        margin-top: 152%;
+    }
+    .user-profile ul li input[type=text] {
+        margin: 5px 0 0px 20px;
+    }
+    .goal-box ul.my {
+        margin-top: 85%;
+        margin-right: 0;
+    }
+    .goal-box ul.my li.goal-box-border h4
+    {
+        font-size: 11px;
+    }
+    .goal-box ul.my li.goal-box-border .icon .fa
+    {
+        font-size: 20px;
+    }
+    .goal-box ul.my li.goal-box-border
+    {
+        height: 185px;
+    }
+    .achievement-tree1 ,.achievement-tree2 , .achievement-tree3 , .achievement-tree4
+    {
+        width: 65px;
+        height: 65px;
+    }
+    .achievement-tree1 .fa , .achievement-tree2 .fa , .achievement-tree3 .fa , .achievement-tree4 .fa{font-size: 13px!important;}
+    .achievement-tree1 span 
+    {
+        font-size: 8px!important;
+        top: 14px;
+    }
+    .achievement-tree2 span
+    {
+        font-size: 8px!important;
+        top: 14px;
+    }
+    .achievement-tree3 span
+    {
+        font-size: 8px!important;
+        top: 11px;
+    }
+    .achievement-tree4 span
+    {
+        font-size: 8px!important;
+        top: 14px;
+    }
+    .achievement-tree4 {
+        left: 58%;
+    }
+    .achievement-tree1:after
+    {
+        margin-left: 97%;
+        width: 128%;
+    }
+    .achievement-tree2:after
+    {
+        width: 180%;
+    }
+    .achievement-tree3:after
+    {
+        width: 310%;
+    }
+    .achievement-tree4:after
+    {
+        top: -24px;
+        width: 84%;
+    }
+    .change-career .box .chart.chart1 {
+        width: 100%;
+    }
+    .chart.chart1 span {
+        padding-left: 0px;
+        margin-left: -74%;
+    }
+    .next-step h4{font-size: 12.5px;}
+    .next-step ul li
+    {
+        padding: 0 28px 0 0px;
+    }
+    .goal-box ul {
+        margin-top: 65%;
+        padding-left: 20px;
+    }
+    .goal-box ul li {
+        margin-right: 10px;
+        width: 30%;
+        display: inline-flex;
+        height: 110px;
+        margin-bottom: 10px;
+    }
+    li.goal-box-border .icon .fa.fa-check.check1
+    {
+        top: 59%;
+    }
+    li.goal-box-border .icon .fa.fa-check.check2
+    {
+        top: 59%;
+    }
+    .team-member-img img
+    {
+        width: 50%;
+        margin: 25% auto 0 50px;
+    }
+    .change-career {
+        height: auto;
+    }
+    .change-career .box .chart {
+        width: 25%;
+        margin: 0 auto;
+    }
+    .tree2, .tree3 {
+        left: 90px;
+    }
+   .achievment-tree-list.add-new .col-lg-3.col-md-3.col-sm-12.text-right
+    {
+        margin-top: -60px;
+    }
+    .achievment-tree-list.cpd .col-lg-3.col-md-3.col-sm-12.text-right
+    {
+        margin-top: -60px;
+    }
+    .achievment-tree-list .col-lg-3.col-md-3.col-sm-12.text-right
+    {
+        margin-top: -60px;
+    }
+    .achievment-tree-list.add-new {
+        height: 475px;
+    }
+    .team-member-name
+    {
+        margin-left: -50px;
+    }
+    .about-widget.clearfix
+    {
+        margin-top: -30px;
+    }
+    .user-profile ul li input[type=email] {
+        margin: 5px 0 0px 23px;
+    }
+    .user-profile ul li input[type=date] {
+        margin: 5px 0 0px 20px;
+        width: 71.5%;
+    }
+    .user-profile ul li select {
+        margin: 5px 0 0px 15px;
+        width: 73.55%;
+    }
+    .user-profile ul li input[type=url]
+    {
+        width: 78.99%;
+        margin: 5px 0 0px 8px;
+    }
+    .user-profile ul li input[type=password] {
+        margin: 5px 0 0px 20px;
+        width: 62.5%;
+    }
+    label.create-psw {
+        padding-right: 13%;
+    }
+    .create-password.user-profile p{}
+    .centermessage {
+        padding:50px 20px 20px;
+    }
+    .candidate-signup-form.step-by-step-form .rates-page-tabs .nav-tabs>li>a {
+        padding: 30px 50px 25px 60px;
+    }
+    .employer-link-page
+    {
+        height: 20vh!important;
+        margin-bottom: 0;
+    }
+    .employer-link-page.student-signup-link-page
+    {
+        margin-bottom: 0;
+    }
+    .employer-link-page h3 {
+        font-size: 30px;
+        padding: 80px 0 0 0;
+    }
+    p.lost-a-detail
+    {
+        display: block;
+        padding-top: 44%;
+        margin-left: 0;
+    }
+    .normal-header
+    {
+       padding: 20px 0 0 !important;
+    }
+    .normal-header .navbar-brand.with-text {
+        padding-top: 20px;
+    }
+    .rates-page-tabs .nav-tabs>li>a
+    {
+        padding: 30px 15px 25px 10px;
+    }
+    .candidate-signup-form textarea.textarea2 {
+        margin-left: 8px;
+        margin-top: 0px;
+    }
+    .candidate-signup-form textarea.textarea1 {
+        margin-left: 0px;
+        margin-right: 15px;
+    }
+    .is-relative
+    {
+        margin-top: 50px;
+    }
+    .supporting-student .container , .register-interest .container , .digilocker-integration .container 
+    {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .university-partner .container
+    {
+        padding-left: 60px;
+        padding-right: 0px;
+    }
+    .demo-parallax.parallax.section.looking-photo.candidate-registration-bg ,.demo-parallax.parallax.section.looking-photo.employer-registration-bg
+    {
+        padding: 170px 0 60px 0!important;
+    }
+    .navbar-right {
+        display: block;
+        margin-right: -10px!important;
+        margin-top: -25px!important;
+    }
+    .navbar-nav>li {
+        float: left;
+        margin-top: -20px;
+    }
+    .navbar-nav>li.cartmenu
+    {
+        margin-top: 0;
+    }
+    .normal-header.affix {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 9999;
+        padding: 15px 0 0px 0!important;
+        width: 100%;
+        background-color: #eceeff !important;
+    }
+    .counter-area.pb-100 .col-xl-3.col-lg-3.col-md-6
+    {
+        width:50%;
+        float: left;
+    }
+    .banner__content-inner {
+        margin-left: -65px;
+    }
+    .banner__content-inner h2{font-size:15px;}
+    img.featurette__image.img-fluid.mx-auto
+    {
+        padding-top: 29%;
+        padding-left: 45%;
+        margin-left: -130px;
+        width: 470px;
+    }
+    .dashboard-personal .col-lg-6.col-md-6.col-sm-12
+    {
+        width:50%;
+    }
+    img.client-persona {
+        margin-top: -50%;
+    }
+    img.achievement-img {
+        margin-top: 40%;
+    }
+    .persoanl-dashboard-right
+    {
+        float:revert;
+    }
+    .persoanl-dashboard-left
+    {
+        float:right;
+        margin-top: -20%;
+    }
+    h2.client-persona-heading {
+        padding-top: 0%;
+        margin-top: 25%;
+    }
+    .partnership ul li {
+        padding: 30px 0px 0 0px;
+    }
+    .section.most-course .col-lg-4.col-md-4.col-sm-12.col-xs-12
+    {
+        width:50%;
+        float:left;
+    }
+    .testibox p
+    {
+        font-size: 12px;
+    }
+    .counter-area.pb-100 .counter-bg 
+    {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .most-course .container
+    {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .dashboard-personal .container , .partnership .container 
+    {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .copyrights .container
+    {
+        padding-left: 50px;
+    }
+    .big-title
+    {
+        margin-bottom: 0px;
+    }
+    .testibox h4
+    {
+        margin: 0 0 4px 95px;
+    }
+    .section.most-course
+    {
+        padding: 40px 0;
+    }
+    .partnership ul li img{width: 70%;}
+    h2.achievement-heading {
+        margin-top: -40%;
+    }
+    .client-persona-left
+    {
+        float:left;
+        margin-left: -50%;
+    }
+    .achievement-right {
+        float: right;
+        margin-right: 1%;
+        margin-top: -90px;
+    }
+    .client-persona-right
+    {
+        float:right;
+        margin-right: -50%;
+    }
+    .persoanl-dashboard-right img{padding-top: 10%;}
+    .featurette__text-sec {
+        padding-top: 0%;
+        width: 50%;
+        float: right;
+        margin-top: -20%;
+        padding-right: 20px;
+    }
+    h1.heading1.how-tool-works
+    {
+        padding-left: 20px;
+    }
+    .centermessage p {
+        color:#ffffff;
+        font-size: 14px !important;
+    }
+    li.bbp-forum-info,
+    li.bbp-topic-title {
+        width: 100%;
+    }
+    .section-full .centermessage p,
+    .section-full .centermessage h2 {
+        font-size: 13px;
+    }
+    .yamm p {
+        color: #fff;
+    }
+    .yamm-content .menu-item li a,
+    .yamm-content .menu-item li {
+        color: rgba(255, 255, 255, 0.3) !important;
+    }
+    .yamm .yamm-content {
+        padding: 0;
+    }
+    .normal-header .dropdown-menu > li {
+        padding: 3px 0 !important;
+    }
+}
+@media(max-width:335px)
+{
+    #my-courses
+    {
+        top: 603%!important;
+    }
+}
+@media(max-width:414px)
+{
+    .modal#editModal
+    {
+        right:0;
+    }
+    .col-lg-6.col-md-6.col-sm-12.admin_user
+    {
+        top: 390px;
+        width: 93%;
+    }
+    .col-lg-9.col-md-9.col-sm-12.api-label {
+        margin-top: 60%;
+    }
+    .col-lg-6.col-md-6.col-sm-12.admin_user_password
+    {
+        top: 470px;
+        width: 93%;
+    }
+    .candidate-signup-form {
+        padding: 0px 0;
+    }
+    .candidate-signup-form input[type=text], .candidate-signup-form input[type=password], .candidate-signup-form input[type=number], .candidate-signup-form input[type=file], .candidate-signup-form input[type=email]
+    {
+        height: 15px;
+        margin: 5px 0 15px 0;
+    }
+    .candidate-signup-form p.password-para {
+        font-size: 11px!important;
+        margin-top: 0px;
+    }
+    .col-lg-9.col-md-9.col-sm-12.new_registration {
+        bottom: 0;
+        top: 440px;
+    }
+    .dropdown.normal-menu.has-submenu ul.dropdown-menu li a
+    {
+        padding-left: 10px;
+    }
+    .normal-header .navbar-nav .has-submenu:hover > ul {
+        margin-top: 0%!important;
+        margin-bottom: 10px;
+    }
+    li.btn.btn-default.get-start-btn a
+    {
+        display: none;
+    }
+    .mobile-get-started-desktop
+{
+    display: block!important;
+}
+    .our-study-partner2
+    {
+        bottom: 48%;
+    }
+    .get-a-new-job button a
+    {
+        font-size: 15px;
+    }
+    .get-a-new-job button a i{padding-left: 5px;}
+    .empowering-career .icon-img{padding-top: 10px;}
+    .single_courses_desc
+    {
+        margin-top: 10px;
+    }
+    .normal-header .navbar-nav li a , .normal-header .navbar-nav .has-submenu .dropdown-menu
+    {
+        width: 37%;
+        font-size: 12px;
+    }
+    .navbar-default .navbar-toggle .icon-bar
+    {
+        background-color: #3ea3a4;
+    }
+    .navbar-toggle .icon-bar+.icon-bar {
+        margin-top: 5px;
+    }
+    .navbar-toggle .icon-bar
+    {
+        width: 25px;
+        height: 2px;
+    }
+    .demo h3 , .demo .single_courses .title h5 , .supercharge h1
+    {
+        font-size: 20px;
+    }
+    .supercharge h1
+    {
+        line-height: 25px;
+    }
+    .demo {
+        padding: 0 20px 0 10px;
+    }
+    .empowering-career p , .demo p , .date_time .date p , .client-detail h5 , .client-detail span{
+        font-size: 13px;
+    }
+.get-a-new-job.enter-higher.desktop , .get-a-new-job.own-professional.desktop
+{
+    display: none;
+}
+.get-a-new-job.enter-higher.mobile , .get-a-new-job.own-professional.mobile
+{
+    display: block;
+}
+    .our-study-partner ul {
+        padding-top: 35px;
+        padding-bottom: 0px;
+    }
+    a.navbar-brand img {
+        max-width: 30%;
+        margin-top: 0px;
+        position: absolute;
+        z-index: 9;
+        top: 5px;
+    }
+    .navbar-default .navbar-brand:hover
+    {
+        height: 0px;
+        width: 70%;
+    }
+    .new-header h1 {
+        font-size: 20px;
+        line-height: 20px;
+        letter-spacing: unset;
+        margin-top: 0;
+    }
+    .new-header-content p {
+        font-size: 12px;
+        line-height: unset;
+        letter-spacing: unset;
+    }
+    li.btn.btn-default.get-started2 {
+        padding-left: 15px!important;
+        padding-right: 15px!important;
+        font-size: 11px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .new-header {
+        padding: 10% 10px 0 10px;
+    }
+    .get-a-new-job .col-lg-6.col-md-6.col-sm-12
+    {
+        width: 100%;
+    }
+    .empowering-career .col-lg-6.col-md-6.col-sm-12 {
+        width: 100%;
+    }
+    .empowering-career .col-lg-3.col-md-3.col-sm-12 {
+        width: 50%;
+        float: left;
+    }
+    .get-a-new-job img {
+        width: 40%;
+        padding-top: 25%;
+        margin-bottom: -20px;
+    }
+    .get-a-new-job.enter-higher.mobile img , .get-a-new-job.keep-your img , .get-a-new-job.own-professional.mobile img{padding-top: 5%;}
+    .our-study-partner {
+        margin: -40px 0 0 0;
+    }
+    .get-a-new-job .content
+    {
+        background-position: 170px 10px;
+    }
+    .get-a-new-job.enter-higher.mobile {
+        background-image: url(images/enter-higher-bg.png);
+        background-repeat: no-repeat;
+        background-position: unset;
+        background-size: contain;
+        overflow-y: hidden;
+    }
+  
+    .our-study-partner ul li {
+        display: inline-block;
+        width: 25%;
+        padding-bottom: 30px;
+    }
+    .our-study-partner ul li img {
+        margin: -20px 0px 0 0px;
+    }
+    .header-bg-img {
+        height: 80px;
+        left: 290px;
+        width: 25%;
+        top: -130px;
+        visibility: hidden;
+    }
+    .header.normal-header.affix-top .container{padding-left: 0;padding-right: 0px;}
+    .modal-list.modal-list-form ul li #start-year , .modal-list.modal-list-form ul li #end-year
+    {
+        margin: 5px 0 0px 0px;
+        width: 100%;
+    }
+   .modal#editModal .space.link a.btn.link-btn
+    {
+            padding: 6px 30px;
+    }
+    .modal#editModal .space.link a {
+    margin: 0px 10px 0 0%;
+    }
+    
+    .modal#editModal .modal-body .space a
+    {
+            padding: 8px 30px;
+    }
+       /*ios*/
+    input[type="date"]
+{
+    background: #fff!important;
+     display: block !important;
+    /* Solution 1 */
+      -webkit-appearance: textfield!important;
+      -moz-appearance: textfield!important;
+       padding: 5px 10px!important;
+      height: 30px!important;
+}
+input[type='date']:after {
+    color: rgb(0 0 0 / 47%);
+    content: attr(placeholder);
+    height: 30px!important;
+ }
+select
+{
+    -webkit-appearance: textfield!important;
+      -moz-appearance: textfield!important;
+      padding: 5px 10px!important;
+      height: 30px!important;
+}
+/*ios*/
+    #submitModal .modal-dialog
+    {
+        margin-left: -29px;
+        /* width: 110%; */
+    }
+    .title-area h2
+    {
+        display: none;
+    }
+    form.defaultform.updateprofile .col-lg-3.col-md-3.col-sm-4.space
+    {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .defaultform .form-control.art {
+        margin-left: 0;
+        width: 100%;
+    }
+    label.fos {
+        margin-left: 0;
+    }
+    .add-field-of-study span a
+    {
+        padding-left: 17px;
+    }
+    .add-field-of-study span a .fa.fa-trash-o {
+        top: 39%;
+        left: 0em;
+    }
+    #submitModal .modal-dialog p{padding-left: 20px;
+        padding-right: 20px;}
+
+    #submitModal .modal-dialog .modal-header img{margin-top: 30px;}
+        .back
+        {
+            top: 30px;
+            left: 30px;
+        }
+        #submitModal .span1 , #submitModal .span2{width: 60%;}
+        .modal-body .space a.btn.btn-primary.share-btn
+        {
+            padding: 7px 79px;
+            margin-bottom: 10px;
+        }
+        .back a
+        {
+            font-size: 13px;
+        }
+        .back a .fa {
+            padding-right: 5px;
+            font-size: 13px;
+        }
+    .widget-title.expire-course h4.heading1 , .mobile-hidden{display: none;}
+    #inviteModal .modal-dialog
+    {
+        width: 80%;
+        margin: 20px auto 0 30px;
+    }
+    #inviteModal .close
+    {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 15px;
+        top: -6px;
+        right: -10px;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.cpd-log-bg
+    {
+        background-size: 104%;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.share-bg
+    {
+        background-size: 104%;
+    }
+    .about-widget.clearfix.shared-widget .hour-logged
+    {
+        margin-top: 6%;
+    }
+    .shared-search .col-lg-8.col-md-8.col-sm-6.text-right
+    {
+        padding-left: 5px;
+    }
+    .tesla-box input[type=email]
+    {
+        font-size: 9px;
+    }
+    .tesla-box select
+    {
+        font-size: 9px;
+        padding: 3px 5px 3px 5px;
+    }
+    .share-achievement-outer.share-achievement-outer1 {
+        padding: 5px 0 20px 0;
+    }
+    .share-achievement-outer .col-lg-6.col-md-6.col-sm-6.text-right
+    {
+        margin-top: -50px;
+    }
+    .share-achievement-outer
+    {
+        padding-bottom: 20px;
+        margin-top: 6%;
+        padding-top: 5px;
+    }
+    .shared-log-asses-border
+    {
+        padding-bottom: 20px;
+    }
+    .shared-log-asses-border .col-lg-6.col-md-6.col-sm-6.text-right
+    {
+        margin-top: -50px;
+    }
+    span.last
+    {
+        padding-left: 28%!important;
+    }
+    .add-new-box.add-new-box-list
+    {
+        width: 65%;
+        margin-top: 0px;
+    }
+    .team-member-name.cpd-list
+   {
+    padding: 0px!important;
+    margin-left: 0!important;
+    width: 96%!important;
+    margin-top: 10px;
+   }
+   .team-member-name.cpd-list ul li
+   {
+     font-size: 10px;
+   }
+   .team-member-name.cpd-list ul li.filter-icon
+   {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    line-height: 15px;
+    margin-left: 10px;
+    padding: 6px 10px;
+   }
+   .modal-list.modal-list-form ul li input[type=url], .modal-list.modal-list-form ul li input[type=number]
+   {
+    margin: 5px 0 0px 0px;
+    width: 100%;
+   }
+   .hour-logged
+   {
+    margin-top: 40%;
+   }
+   .hour-logged.hour-logged2
+   {
+    margin-top: 0;
+   }
+   span.hour-logged
+   {
+    margin-top: 20px;
+   }
+   .recent-learn.cpd-table {
+    margin-top: 15%;
+}
+    .achievment-tree-list.add-new , .achievment-tree-list {
+        height: auto;
+    }
+    .menuopener
+    {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.achievement-bg {
+        background-size: 104%!important;
+    }
+    .next-step.next-step1
+    {
+        right: 23px;
+        top: 18%;
+    }
+    .achievement-tree1
+    {
+        top: 215%;
+        left: -3px;
+    }
+    .achievement-tree4
+    {
+      top: 108%;
+      left: 63%;
+    }
+    .achievement-tree4:after {
+        top: -15px;
+        width: 54%;
+    }
+    .achievement-tree3:after {
+        width: 240%;
+    }
+    .goal-box ul.my {
+        margin-top: 15%;
+    }
+    .goal-box ul.my li.goal-box-border {
+        height: 165px;
+    }
+    .modal-list.modal-list-form ul li #start-date ,.modal-list.modal-list-form ul li input[type=text] ,
+    .modal-list.modal-list-form ul li input[type=url] , .modal-list.modal-list-form ul li select
+    {
+        margin: 5px 0 0px 0px;
+        width: 100%;
+    }
+    .modal-list.modal-list-form ul li textarea#notes
+    {
+        margin: 35px 0 0px 0px;
+        width: 100%;
+    }
+    #myModal .modal-dialog , #goalModal .modal-dialog , #shareModal .modal-dialog
+    {
+        width: 85%;
+        margin: 15px;
+    }
+    #myModal .close, #editModal .close , #goalModal .close , #shareModal .close
+ {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    top: -5px;
+    font-size: 15px;
+    right: -10px;
+}
+.barra
+{
+    margin: 10px 0 0 20px;
+}
+.modal-list ul
+{
+    padding-left: 20px;
+}
+.modal-list ul li
+{
+    padding: 5px 10px 5px 10px;
+}
+    li.goal-box-border .icon .fa.fa-check.get-a-pay
+    {
+        top: 38%;
+    }
+    li.goal-box-border .icon .fa.fa-check.check2
+    {
+        top: 72%;
+    }
+    .change-career.change-career2 {
+        height: auto;
+        margin: 60px 0 0px 0;
+    }
+    .chart.chart1 span
+    {
+        margin-left: -66%;
+    }
+    .next-step
+    {
+        top: 19.5%;
+    }
+    .next-step h4 {
+        font-size: 9.5px;
+    }
+    .next-step ul li {
+        padding: 0 8px 0 0px;
+    }
+    .goal-box ul {
+        margin-top: 15%;
+    }
+    .goal-box ul li
+    {
+        width: 45%;
+    }
+    .change-career
+    {
+        margin: 120px 0 0px 0;
+    }
+    .change-career.iac
+    {
+        margin-top: 20px;
+    }
+    .change-career .box .chart {
+        width: 32%;
+    }
+    .tree2, .tree3 {
+        left: 50px;
+    }
+    .tree3 , .tree5
+    {
+        margin-top: 10px;
+    }
+    .add-new-box
+    {
+        width: 25%;
+        margin-top: -30px;
+    }
+    .add-new-box.add-new-box1
+    {
+        width: 45%;
+        margin-top: 20px;
+    }
+    .add-new-box span
+    {
+      font-size: 9px;
+    }
+    li.goal-box-border .icon .fa.fa-check.check1 {
+        top: 38%;
+    }
+    .achievment-tree-list.add-new .col-lg-3.col-md-3.col-sm-12.text-right {
+        margin-top: -30px;
+    }
+    .achievment-tree-list.cpd .col-lg-3.col-md-3.col-sm-12.text-right {
+        margin-top: -50px;
+    }
+    .achievment-tree-list .col-lg-3.col-md-3.col-sm-12.text-right {
+        margin-top: -30px;
+    }
+    .achievment-tree-list span
+    {
+        font-size: 10px;
+    }
+    .change-career.change-career2 h4
+    {
+        font-size: 13px;
+    }
+    .achievment-tree-list .fa.fa-file-pdf-o
+    {
+        padding-top: 0;
+    }
+    .team-member-img img {
+        width: 25%;
+        margin: 0 auto;
+    }
+    .team-member-img
+    {
+        margin-top: 30px;
+    }
+    .breadcrumb li a{text-align: center;}
+    .about-widget .team-member-name {
+        padding: 0 40px 0 20px;
+        margin-left: -7px;
+        position: absolute;
+        z-index: 1;
+        width: 96%;
+    }
+    #my-courses
+    {
+        z-index: 9;
+        position: absolute;
+        top: 453%;
+
+    }
+    /* .team-member-img img {
+        width: 50%;
+        margin: 0 auto 0 100px;
+    }
+    .team-member-img
+{
+    z-index: 9;
+}
+.team-member-name {
+    margin-left: 0px;
+    z-index: 9;
+    position: absolute;
+} */
+    .demo-parallax.parallax.section.looking-photo.nopadbot.profile-bg
+    {
+        background-position: 0px 0px!important;background-size: 105%;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.goal-bg
+    {
+        background-position: 0px 0px!important;background-size: 105%;
+    }
+    .page-title.section.nobg .pull-right.hidden-xs
+    {
+        display: block!important;
+    }
+    .section.nobg {
+        padding: 14px 0!important;
+        margin-top: -54px;
+    }
+    .section.nobg.nobg1 {
+        padding: 14px 0!important;
+        margin-top: -60px;
+    }
+    .section.nobg.nobg1 .breadcrumb {
+        margin: -15px 260px 0 0px;
+    }
+    .user-profile ul li input[type=text] , .user-profile ul li input[type=email] , .user-profile ul li input[type=date] , .user-profile ul li select
+    , .user-profile ul li input[type=url] , .user-profile ul li input[type=password]
+    {
+        margin: 5px 0 0px 0px;
+        width: 100%;
+    }
+    .create-password.user-profile p {
+        font-size: 13px;
+    }
+    li.psw-option p .fa.fa-check
+    {
+        width: 17px;
+        height: 17px;
+        line-height: 17px;
+        font-size: 9px;
+    }
+    .create-password.user-profile p {
+        font-size: 11px;
+    }
+    .user-profile-btn a
+    {
+        font-size: 12px;
+    }
+    .user-profile-btn {
+        margin-left: -20px;
+    }
+    .container-fluid ul li .fa.fa-pencil-square-o
+    {
+        margin: 4.99px 0px 0px -30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .user-profile ul li span {
+        padding-left: 1.5%;
+    }
+    .user-profile ul li span .fa
+    {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 15px;
+    }
+    .fileUpload
+    {
+        margin-left: 3.5%;
+    }
+    .user-profile ul li label{display: block;
+        font-size: 13px;
+    }
+    .breadcrumb {
+        margin: -15px 90px auto 0;
+        padding-top: 10px;
+    }
+    .breadcrumb.my-profile
+    {
+        margin: -15px 140px auto 0;
+    }
+    .navbar-right {
+        display: inline-block;
+        margin-right: 0px!important;
+        margin-top: 0px!important;
+    }
+    .candidate-signup-form.step-by-step-form .col-lg-6.col-md-6.col-sm-6.xs-6.save , .candidate-signup-form.step-by-step-form .col-lg-6.col-md-6.col-sm-6.xs-6.text-right.next
+    {
+       width: 50%;
+       float: left;
+    }
+    .candidate-signup-form.step-by-step-form button {
+        width: 100%;
+    }
+    .candidate-signup-form.step-by-step-form .rates-page-tabs .nav-tabs>li>a {
+        padding: 30px 0px 25px 10px;
+    }
+    .employer-link-page {
+        height: auto!important;
+        margin-bottom: -30px;
+    }
+    .employer-link-page.learning-signup-link-page
+    {
+        margin-top: 30px;
+    }
+    .employer-link-page h3
+{
+    padding: 30px 10px 30px 10px;
+}
+    p.lost-a-detail
+    {
+        padding-top: 18%;
+        margin-bottom: 0px;
+    }
+    .supporting-student h1 , .register-interest h1 , .digilocker-integration h1 , .candidate-signup-form h3{font-size: 20px;}
+    .rates-page-tabs .nav-tabs>li>a {
+        padding: 20px 10px 25px 10px;
+        font-size: 13px;
+    }
+    .candidate-signup-form textarea.textarea1 , .candidate-signup-form textarea.textarea2
+    {
+        width: 100%;
+    }
+    .candidate-signup-form textarea.textarea1
+    {
+        margin-right: 0px;
+    }
+    .candidate-signup-form textarea.textarea2
+    {
+        margin-left: 0px;
+    }
+    .supporting-student {
+        padding: 10px 0 0 0;
+    }
+    .is-relative {
+        margin-top: 30px;
+    }
+    .digilocker-integration .col-lg-2.col-md-4.col-sm-4
+    {
+      width:30%;
+      float: left;
+      padding: 0;
+    }
+    .service-text-box
+    {
+        padding-left: 0px;
+        margin-left: 20px;
+    }
+    .university-partner .col-lg-3.col-md-3.col-sm-4
+    {
+        width: 25%;
+        float: left;
+    }
+    .university-partner .container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .university-partner {
+        padding: 10px 0 40px 0;
+    }
+    .university-partner img
+    {
+        margin-top: 20px;
+        padding: 10px;
+        max-width: 100%;
+    }
+    .digilocker-integration i
+    {
+        font-size: 25px;
+    }
+    .subtitle
+    {
+        font-size: 14px;
+        line-height: 1.25;
+    }
+    .register-interest figure.image img
+    {
+       width: 100%;
+    }
+    .demo-parallax.parallax.section.looking-photo.candidate-registration-bg, .demo-parallax.parallax.section.looking-photo.employer-registration-bg {
+        padding: 60px 0 30px 0!important;
+    background-position: top center;
+    background-size: 170%;
+    }
+    .candidate-signup-form .signupbtn
+    {
+        width: 30%;
+        padding: 5px;
+    }
+    .normal-header.affix
+    {
+        padding: 10px 0 7px 0!important;
+    }
+    .banner__content-inner {
+        margin-left: 55px;
+        padding-top: 5%;
+    }
+    .inner-banner-content.banner__content-inner a.btn.btn-primary.btn-sm
+    {
+        font-size: 10px;
+        padding: 3px 10px!important;
+    }
+    img.featurette__image.img-fluid.mx-auto
+    {
+        padding-top: 18%;
+        margin-left: -86px;
+        width: 280px;
+    }
+    .featurette__text-sec
+    {
+        width: 100%;
+        margin-top: 0;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-bottom: 0px;
+    }
+    .achievement-left
+    {
+        margin-top: -95%;
+    }
+    h2.client-persona-heading {
+        padding-top: 0%;
+        margin-top: 85%;
+    }
+    img.client-persona {
+        margin-top: 0;
+    }
+    .partnership ul li
+    {
+        display: table-cell;
+    }
+    .partnership ul li img {
+        width: 100%;
+    }
+    .partnership ul
+    {
+        margin-left: -50px;
+        margin-top: -20px;
+    }
+    .testibox h4 {
+        margin: 0 0 -40px 0px;
+    }
+    .testibox
+    {
+        padding: 20px 0 30px 0;
+    }
+    .copyrights .container {
+        padding-left: 35px;
+    }
+    .copyrights .container .col-md-3.col-sm-3 
+    {
+      width: 41.95%;
+      float: left;
+    }
+    
+    .copyrights .container .col-md-3.col-sm-6 , .copyrights .container .col-md-9.col-sm-6.text-right  
+    {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .copyrights .container .col-md-9.col-sm-6.text-right 
+    {
+        text-align: center!important;
+    }
+    .copylinks.reserved, .reserved-list {
+        padding-top: 10px;
+    }
+    .copylinks.reserved
+    {
+        text-align: center;
+        margin: 0 auto;
+        display: inline-block;
+    }
+    .reserved-list
+    {
+        margin: 0 auto 0 -30px;
+    }
+    .copyrights
+    {
+        background-position: bottom center;
+        background-size: cover;
+        padding: 15px 0 10px 0;
+    }
+    .copylinks p
+{
+    font-size: 10px;
+    margin: 0;
+}
+.footer-social
+{
+    margin-top: -20px;
+}
+.video-wrapper .widget-title .btn-inverse
+{
+    height: 24px;
+    line-height: 20px;
+    margin-top: -50px;
+}
+.dashboard-personal h2 , h2.featurette-heading
+{   font-size: 20px;
+    font-weight: 600;
+}
+    .achievement-right {
+        float: none;
+        margin-right: 0;
+        margin-top: 0;
+    }
+    .dashboard-personal .col-lg-6.col-md-6.col-sm-12 {
+        width: 100%;
+    }
+    h2.achievement-heading {
+        margin-top: 0%;
+    }
+    .persoanl-dashboard-right img {
+        padding-top: 80%;
+    }
+    .persoanl-dashboard-left
+    {
+        margin-top: -115%;
+    }
+    img.achievement-img {
+        margin-top: 70%;
+    }
+    .navbar-right {
+        display: grid!important;
+        margin-right: 0px!important;
+        margin-top: 5px!important;
+    }
+    .navbar-right li.btn
+    {
+        margin-top: 10px;
+        width: 35%;
+    }
+
+    .banner--has-background-image .banner__content {
+        position: relative;
+        width: 100%;
+        padding-right: 0rem;
+        padding-left: 0;
+    }
+    .counter-text h1
+    {
+        font-size: 20px;
+        line-height: 0.5;
+    }
+    .navbar-default
+    {
+        padding: 0 0 5px 0!important;
+    }
+    .normal-header
+    {
+        padding: 5px 0 0px 0!important;
+    }
+    .counter-bg {
+        margin-top: -120px;
+    }
+    .counter-text h1 span.counter
+    {
+        font-size: 20px;
+    }
+    .counter-text > span
+    {
+        font-size: 10px;
+    }
+    .counter-wrapper
+    {
+        
+    padding: 25px 20px 25px 20px;
+
+    }
+    .counter-icon i
+    {
+        font-size: 25px;
+    }
+    .navbar-nav>li {
+        float: left;
+        margin-top: 0px;
+    }
+    .cartmenu sup
+    {
+        margin-right: 90%;
+    }
+}
+
+@media(max-width:375px)
+{
+    .add-field-of-study.add-field-of-study2 {
+        margin-top: 0px;
+        margin-left: -10px;
+        text-align: left;
+    }
+    .change-career.change-career2 h4 {
+        font-size: 11px;
+    }
+    .col-lg-9.col-md-9.col-sm-12.api-label {
+        margin-top: 67%;
+    }
+    .col-lg-9.col-md-9.col-sm-12.new_registration {
+        bottom: 0;
+        top: 460px;
+    }
+    .candidate-signup-form h3 {
+        font-size: 18px;
+    }
+    .candidate-signup-form label b
+    {
+        font-size: 13px;
+    }
+    .normal-header .navbar-nav li a, .normal-header .navbar-nav .has-submenu .dropdown-menu
+    {
+        width: 42%;
+    }
+    .new-header h1 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .get-a-new-job h3
+    {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .empowering-career h3 {
+        font-size: 18px;
+    }
+    .empowering-career p, .demo p, .date_time .date p, .client-detail h5, .client-detail span {
+        font-size: 12px;
+    }
+    .empowering-career .icon-img h4 , .check h3
+    {
+        font-size: 13px;
+    }
+    .copyrights li a, .copylinks.reserved p, .check li p
+   {
+       font-size: 9px;
+   }
+   .copyrights li a span
+   {
+       font-size: 15px;
+   }
+   .check h3 img {
+    max-width: 66%;
+}
+.reserved-list {
+    margin: -10px auto 0 -40px;
+}
+    .empowering-career .icon-img span
+    {
+        font-size: 12px;
+        margin-top: -33px;
+    }
+    .demo h3, .demo .single_courses .title h5, .supercharge h1 {
+        font-size: 18px;
+    }
+    .header-bg-img {
+        height: 50px;
+        left: 260px;
+        width: 25%;
+        top: -80px;
+        visibility: hidden;
+    }
+    .get-a-new-job p
+    {
+        font-size: 11.5px;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.cpd-log-bg ,  .demo-parallax.parallax.section.looking-photo.nopadbot.share-bg {
+        background-size: 115%;
+    }
+    .breadcrumb.my-profile {
+        margin: -15px 240px 0 0px;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.profile-bg.profile-bg2
+    {
+        background-size: 123%;
+    }
+    span.last {
+        padding-left: 18%!important;
+    }
+    .tesla-box label , .share-achievement-list-program h5 , .share-achievement-outer .fa , .shared-logs-assesement .fa , .shared-logs-assesement.col-lg-12 h5{font-size: 12px;}
+    
+    .section.nobg.nobg1 .breadcrumb 
+    {
+        margin: -25px 230px 0 0px;
+        padding-top: 20px;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.achievement-bg {
+        background-size: 115%!important;
+    }
+    .change-career.change-career2.achievement .box .chart.chart1 {
+        width: 110%;
+    }
+    .change-career.change-career2.achievement {
+        height: 420px;
+    }
+    .change-career.change-career2.achievement .next-step.next-step1 {
+        right: 103px;
+        top: 38%;
+    }
+    .achievement-tree4 {
+        left: 82%;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.goal-bg
+    {
+        background-size: 114%;
+    }
+    .next-step {
+        width: 44%;
+    }
+    .next-step ul
+    {
+        margin-left: -95px;
+    }
+    .add-new-box.add-new-box1 {
+        width: 55%;
+    }
+    #my-courses {
+        z-index: 9;
+        position: absolute;
+        top: 500%;
+    }
+    .achievment-tree-list span {
+        font-size: 10px;
+    }
+    .breadcrumb {
+        margin: -25px 140px 0 0px;
+        padding-top: 20px;
+    }
+    .change-career .box .chart {
+        width: 35%;
+    }
+    .tree3
+    {
+        left: 38px;
+    }
+    .tree2
+    {
+        left: 40px;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.profile-bg
+    {
+        background-size: 115%;
+    }
+    .persoanl-dashboard-left {
+        margin-top: -120%;
+    }
+    .candidate-signup-form.step-by-step-form .rates-page-tabs .nav-tabs>li>a {
+        padding: 10px 5px 25px 5px;
+    }
+    .candidate-signup-form.step-by-step-form .rates-page-tabs .nav-tabs>li>a i {
+        margin-right: 3px;
+    }
+    p.lost-a-detail {
+        padding-top: 17%;
+    }
+    .demo-parallax.parallax.section.looking-photo.candidate-registration-bg , .demo-parallax.parallax.section.looking-photo.employer-registration-bg
+    {
+        background-size: 184%;
+    }
+    h2.client-persona-heading
+    {
+        margin-top: 65%;
+    }
+    .dashboard-personal h2, h2.featurette-heading {
+        font-size: 18px;
+    }
+    .banner__content-inner {
+        margin-left: 45px;
+        padding-top: 5%;
+    }
+    .banner__content-inner h2 {
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    img.featurette__image.img-fluid.mx-auto {
+        padding-top: 15%;
+        margin-left: -77px;
+        width: 250px;
+    }
+}
+@media(max-width:320px)
+{
+     .modal#editModal .space.link
+     {
+             margin-left: 30px;
+     }
+     .modal#editModal .modal-body .space a {
+    padding: 5px 20px;
+    font-size: 11px;
+}
+.modal#editModal .space.link a.btn.link-btn {
+    padding: 4px 20px;
+}
+    .demo-parallax.parallax.section.looking-photo.nopadbot.cpd-log-bg ,.demo-parallax.parallax.section.looking-photo.nopadbot.share-bg {
+        background-size: 120%;
+    }
+    .breadcrumb.my-profile
+    {
+        margin: -25px 185px 0 0px!important;
+    }
+    #inviteModal .modal-dialog {
+        width: 80%;
+        margin: 20px auto 0 20px;
+    }
+    span.last {
+        padding-left: 4%!important;
+    }
+    .add-new-box span.span1 {
+        margin-left: -30px;
+    }
+    .tesla-box label, .share-achievement-list-program h5, .share-achievement-outer .fa, .shared-logs-assesement .fa, .shared-logs-assesement.col-lg-12 h5 {
+        font-size: 9px!important;
+    }
+    .tesla-box span.tesla-invite {
+        padding-bottom: 10px;}
+        .tesla-box
+        {
+            height: 130px!important;
+        }
+        .share-achievement-list-program {
+            height: 210px;
+        }
+        .shared-search h5{font-size: 12px;}
+
+        #gsearch{font-size: 11px;}
+        .share-achievement-outer span {
+            padding-left: 18px;
+        }
+        .share-achievement-list-program span {
+            font-size: 10px!important;
+        }
+        .col-lg-6.col-md-6.col-sm-6.text-right
+        {
+            font-size: 9px;
+        }
+    .team-member-name.cpd-list ul li
+    {
+        padding: 5px 8px;
+    }
+    h4.modal-title.modal-title1
+    {
+        font-size: 14px;
+    }
+    .modal-list.modal-list-form ul li .fa.fa-pencil-square-o.a-pencil.pencil1
+    {
+        width: 30px;
+        height: 33px;
+        line-height: 30px;
+    }
+    .team-member-name.cpd-list ul{padding-left: 0px!important;}
+    .counter-text > span {
+        font-size: 8px;
+    }
+    .achievement-tree4 {
+        left: 108%;
+    }
+    .goal-box ul.my {
+        margin-top: 30%;
+        padding-left: 0px!important;
+    }
+    .goal-box ul.my li.goal-box-border {
+        height: auto!important;
+        width: 100%;
+    }
+    span.all-goal {
+        font-size: 14px;
+        padding-top: 25px;
+    }
+    .modal-list.modal-list-form ul li .fa.fa-pencil-square-o.a-pencil
+    {
+        width: 30px;
+        height: 33px;
+        line-height: 27px;
+    }
+    .container-fluid ul li .fa.fa-link.a-link
+    {
+        width: 30px;
+        height: 30px;
+        line-height: 26px;
+    }
+    #myModal .modal-dialog , #goalModal .modal-dialog , #shareModal .modal-dialog{
+        width: 82%;
+        margin: 15px;
+    }
+    .change-career.change-career2
+    {
+        margin: 60px 0 0px -10px;
+        width: 110%;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.goal-bg {
+        background-size: 120%;
+    }
+    .next-step {
+        top: 18.5%;
+        width: 38%;
+    }
+    .next-step ul {
+        margin-left: -65px;
+    }
+    .next-step h4
+    { 
+        margin-left: -25px!important;
+        font-size: 10px!important;
+    }
+    .chart.chart1 span 
+    {
+            margin-left: -57%;
+    }
+    .add-new-box.add-new-box1 {
+        width: 85%;
+    }
+    .goal-box ul {
+        margin-top: 25%;
+    }
+    li.goal-box-border h4 {
+        font-size: 10px;
+        margin-left: 0;
+    }
+    li.goal-box-border .icon .fa.fa-check {
+        padding: 3px;
+        top: 14px;
+        line-height: 5px;
+        font-size: 6px;
+        width: 12px;
+        height: 12px;
+    }
+    .section.nobg.nobg1 .breadcrumb 
+    {
+        margin: -25px 150px 0 0px;
+        padding-top: 20px;
+    }
+    .section.nobg.nobg1 {
+        padding: 14px 0!important;
+        margin-top: -3px;
+    }
+    .breadcrumb {
+        margin: -25px 80px 0 0px!important;
+        padding-top: 20px;
+    }
+    .change-career .box .chart {
+        width: 43%!important;
+    }
+    .change-career .box .chart.chart1 {
+        width: 103%!important;
+    }
+    #submitModal .modal-header {
+        padding-top: 13%;
+        border-bottom: none;
+        margin-left: 20px;
+    }
+    #submitModal .span1, #submitModal .span2 {
+        width: 51%;
+    }
+    #submitModal .modal-dialog
+    {
+        height: 110%;
+    }
+    .tree1 
+    {
+        width: 85px;
+        height: 85px;
+    }
+    .tree1 span
+    {
+        top: 5px;
+        right: 4px;
+        font-size: 10px!important;
+    }
+    .tree2
+    {
+        width: 85px;
+        height: 85px;
+        top: 32%;
+    }
+    .tree2 span
+    {
+        top: 10px;
+        right: -2px;
+        font-size: 10px!important;
+    }
+    .tree3 
+    {
+        width: 85px;
+        height: 85px;
+    }
+    .tree3 span
+    {
+        top: 16px;
+        right: -4px;
+        font-size: 10px!important;
+    }
+    .tree4 
+    {
+        width: 85px;
+        height: 85px;
+    }
+    .tree4 span
+    {
+        top: 13px;
+        right: 10px;
+        font-size: 10px!important;
+    }
+    .tree5 {
+        width: 85px;
+        height: 85px;
+    }
+    .tree5 span
+    {
+        top: 18px;
+        right: 10px;
+        font-size: 10px!important;
+    }
+    .tree6 {
+        width: 80px;
+        height: 80px;
+    }
+    .tree6 span {
+        font-size: 9px!important;
+    }
+    .achievment-tree-list h5
+    {
+        font-size: 13px;
+    }
+    .achievment-tree-list span {
+        font-size: 10px;
+    }
+    .add-new-box {
+        width: 27%;
+    }
+    .achievment-tree-list h6
+    {
+        font-size: 12px;
+    }
+    .achievment-tree-list span {
+        font-size: 7.5px!important;
+    }
+    .achievment-tree-list .fa.fa-file-pdf-o
+    {
+        font-size: 12px;
+    }
+    .about-widget h4
+    {
+        font-size: 12px;
+        margin-left: 6px;
+    }
+    span.last {
+        padding-left: 12%;
+        font-size: 11px!important;
+    }
+    #my-courses {
+        z-index: 9;
+        position: absolute;
+        top: 545%!important;
+    }
+    .about-widget.clearfix ul{padding-left: 20px;}
+    .about-widget.clearfix ul li{font-size: 10px;}
+    .user-profile
+    {
+        padding: 15px 13px 15px 13px;
+        margin: 30px auto;
+    }
+    .section.nobg
+    {
+        margin-top: 0px;
+    }
+    .demo-parallax.parallax.section.looking-photo.nopadbot.profile-bg {
+        background-size: 120%;
+    }
+    .candidate-signup-form.step-by-step-form .rates-page-tabs .nav-tabs>li>a {
+        padding: 10px 5px 15px 5px;
+        font-size: 10px;
+    }
+    .candidate-signup-form.step-by-step-form h1.heading1 {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 0;
+        margin-top: 5px;
+    }
+    .candidate-signup-form.step-by-step-form p
+    {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .candidate-signup-form p.new {
+        font-size: 12px!important;
+    }
+    p.lost-a-detail {
+        padding-top: 21%!important;
+    }
+    .service-text-box
+    {
+        margin-left: 0px;
+        padding-left: 15px;
+    }
+    .service-text h5{font-size: 10px;}
+    .candidate-signup-form h5
+    {
+        padding: 10px 0px 10px 12px!important;
+        font-size: 12px!important;
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+    .supporting-student {
+        padding: 0px 0 0 0;
+    }
+    .candidate-signup-form label
+    {
+        font-size: 12px;
+    }
+    .demo-parallax.parallax.section.looking-photo.candidate-registration-bg,.demo-parallax.parallax.section.looking-photo.employer-registration-bg {
+        background-size: 220%!important;
+    }
+    .candidate-signup-form {
+        padding: 30px 0;
+    }
+    p.via {
+        font-size: 10px!important;
+    }
+    .form-group label
+    {
+        font-size: 9px;
+    }
+    .candidate-signup-form input[type=text], .candidate-signup-form input[type=password], .candidate-signup-form input[type=number], .candidate-signup-form input[type=file], .candidate-signup-form input[type=number] , select,#start-date, #end-date
+    {
+        padding: 10px 10px 10px 10px;
+        font-size: 10px!important;
+    }
+    .candidate-signup-form textarea.textarea1 , .candidate-signup-form textarea.textarea2{font-size: 10px;min-height: 80px;}
+    .candidate-signup-form textarea.textarea1
+    {
+        margin-bottom: 10px;
+    }
+    .custom-file-input::before
+    {
+        font-size: 10px;
+    }
+    .candidate-signup-form .signupbtn {
+        width: 30%;
+    }
+    .counter-wrapper 
+    {
+        padding: 15px 10px 25px 10px;
+        margin-bottom: 5px;
+    }
+    .demo-parallax h4 span, .demo-parallax h4 {
+        font-size: 15px !important;
+    }
+    .centermessage p {
+        color: #ffffff;
+        font-size: 11px !important;
+    }
+    .demo-parallax.onecourse, .demo-parallax {
+        padding: 10rem 0 10rem !important;
+    }
+    .banner__content-inner h2 {
+        font-size: 10px;
+        font-weight: 600;
+        margin-bottom: 1px;
+    }
+    .inner-banner-content.banner__content-inner a.btn.btn-primary.btn-sm {
+        font-size: 8px;
+    }
+    img.featurette__image.img-fluid.mx-auto {
+        padding-top: 20%;
+        margin-left: -66px;
+        width: 210px;
+    }
+    h1.heading1
+    {
+        font-size: 17px;
+    }
+    .dashboard-personal h2, h2.featurette-heading {
+        font-size: 16px;
+    }
+    p{font-size: 12px!important;}
+    .persoanl-dashboard-right img {
+        padding-top: 85%;
+    }
+    .persoanl-dashboard-left {
+        margin-top: -130%!important;
+    }
+    .widget-title h3
+    {
+        font-size: 12px;
+    }
+}
+
+@media(max-width:360px)
+{
+    span.last {
+        padding-left: 16%!important;
+    }
+         .modal#editModal .space.link
+     {
+             margin-left: 30px;
+     }
+     .col-lg-9.col-md-9.col-sm-12.api-label {
+        margin-top: 86%;
+    }
+    .candidate-signup-form img.api-img
+    {
+        margin-top: 390px;
+    }
+    .form-group label {
+        font-size: 9px;
+    }
+     .normal-header .navbar-nav li a, .normal-header .navbar-nav .has-submenu .dropdown-menu {
+        width: 44%;
+    }
+     .our-study-partner {
+        margin: -20px 0 0 0;
+    }
+    .our-study-partner ul
+    {
+        padding-top: 30px;
+    }
+    .our-study-partner2
+    {
+        bottom: 44%;
+    }
+    .get-a-new-job p {
+        font-size: 10.99px;
+    }
+    .get-a-new-job .content {
+        padding: 20px 0px 0 0;
+    }
+    .get-a-new-job img
+    {
+        width: 35%;
+    }
+     .header-bg-img {
+        height: 50px;
+        left: 240px;
+        width: 25%;
+        top: -80px;
+        visibility: hidden;
+    }
+    .breadcrumb.my-profile {
+        margin: -15px 220px 0 0px;
+    }
+    .tesla-box label, .share-achievement-list-program h5, .share-achievement-outer .fa, .shared-logs-assesement .fa, .shared-logs-assesement.col-lg-12 h5 {
+        font-size: 11.5px;
+    }
+    .demo-parallax.onecourse, .demo-parallax {
+        padding: 8rem 0 10rem !important;
+    }
+    .goal-box ul.my li.goal-box-border {
+        height: auto!important;
+        width: 100%;
+    }
+    .next-step {
+        width: 40%;
+    }
+    .next-step h4{margin-left: -30px;}
+    .next-step ul li {
+        padding: 0 3px 0 0px;
+    }
+    .next-step ul li span{font-size:10px;}
+    .chart.chart1 span {
+        margin-left: -59%;
+    }
+    #my-courses {
+        z-index: 9;
+        position: absolute;
+        top:508%;
+    }
+    .section.nobg.nobg1 .breadcrumb
+    {
+        margin: -25px 200px 0 0px;
+    }
+    .section.nobg.nobg1
+    {
+        margin-top: 0;
+    }
+    .breadcrumb {
+        margin: -25px 120px 0 0px;
+    }
+    .change-career .box .chart {
+        width: 37%;
+    }
+    .section.nobg
+    {
+        margin-top: 0px;
+    }
+    .tree1 , .tree2 , .tree3 , .tree4 , .tree5
+    {
+        width: 85px;
+        height: 85px;
+    }
+    .tree1 span
+    {
+        top: 10px;
+        right: 8px;
+        font-size: 10px!important;
+    }
+    .tree2 span
+    {
+        top: 11px;
+        right: 0px;
+        font-size: 10px!important;
+    }
+    .tree3 span
+    {
+        top: 16px;
+        right: -3px;
+        font-size: 10px!important;
+    }
+    .tree4 span
+    {
+        top: 15px;
+        right: 8px;
+        font-size: 10px!important;
+    }
+    .tree5 span
+    {
+        top: 20px;
+        right: 7px;
+        font-size: 10px!important;
+    }
+    .tree6 span {
+        font-size: 10px!important;
+    }
+    .achievment-tree-list h6
+    {
+        font-size: 13px;
+    }
+    .achievment-tree-list span 
+    {
+        font-size: 9px;
+    }
+    span.last {
+        padding-left: 20%;
+    }
+    p.lost-a-detail {
+        padding-top: 20%;
+    }
+    .service-text-box
+    {
+        margin-left: 10px;
+    }
+    h1{font-size: 20px!important;}
+    .service-text h5
+    {
+      font-size: 10px;
+    }
+    .candidate-signup-form h5
+    {
+        font-size: 13px;
+        padding: 10px 0px 10px 10px;
+    }
+    .candidate-signup-form textarea.textarea1, .candidate-signup-form textarea.textarea2
+    {
+        min-height: 80px;
+        font-size: 11px;
+    }
+    .demo-parallax.parallax.section.looking-photo.candidate-registration-bg , .demo-parallax.parallax.section.looking-photo.employer-registration-bg {
+        background-size: 191%;
+    }
+    .candidate-signup-form {
+        padding: 0px 0;
+    }
+    .col-lg-9.col-md-9.col-sm-12.new_registration {
+        bottom: 0;
+        top: 415px;
+    }
+    .candidate-signup-form input[type=text], .candidate-signup-form input[type=password], .candidate-signup-form input[type=number], .candidate-signup-form input[type=file], .candidate-signup-form input[type=number],select,#start-date, #end-date
+    {
+        padding: 10px;
+        font-size: 12px;
+    }
+    .candidate-signup-form.step-by-step-form .rates-page-tabs .nav-tabs>li>a {
+        padding: 10px 7px 15px 7px;
+        font-size: 11.5px;
+    }
+    p.via {
+        font-size: 10px!important;
+    }
+    .widget-title h3 {
+        font-size: 13px;
+    }
+    .counter-wrapper {
+        padding: 15px 10px 20px 10px;
+        margin-bottom: 4px;
+    }
+    .persoanl-dashboard-left {
+        margin-top: -125%;
+    }
+    .dashboard-personal img {
+        width: 50%;
+    }
+    p{font-size: 13px;}
+    .most-course .container {
+        padding-left: 19px;
+        padding-right: 15px;
+    }
+}
+@media (max-width: 600px) {
+    .alignleft {
+        float: none;
+        margin: 5px 20px 20px 0;
+    }
+    .onecourse .big-title h2 {
+        font-size: 21px;
+    }
+    .m30 {
+        margin-top: 30px;
+    }
+    .demo-parallax {
+        padding: 14rem 0 5rem;
+    }
+    .demo-parallax h4 span,
+    .demo-parallax h4 {
+        font-size: 21px !important;
+    }
+    .service-list.text-center .widget-title h3 {
+        font-size: 18px;
+    }
+    .onecourse .big-title p,
+    .centermessage p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 992px) {
+    .m30 {
+        margin-top: 30px;
+    }
+    .normal-header.notfixmenu {
+        padding: 20px 0 0 !important;
+        background-color: #ffffff !important
+    }
+    hr.largeinvis {
+        border: 0;
+        margin: 30px 0;
+    }
+    .single-team-member {
+        margin: 15px 0;
+    }
+    .redbg .team-member-link {
+        display: none;
+    }
+    .custom-list .col-md-6:nth-child(4),
+    .custom-list .col-md-6:nth-child(3),
+    .custom-list .col-md-6:nth-child(1),
+    .custom-list .col-md-6:nth-child(2) {
+        border: 0 !important;
+    }
+    .blog-wrapper,
+    .video-wrapper,
+    .service-list .widget {
+        margin: 15px 0;
+    }
+    .navbar-default .navbar-toggle {
+        background-color: transparent !important;
+        border-color: transparent !important;
+        border-radius: 0;
+        margin-top: 8px;
+    }
+    .normal-header {
+        background-color: #fff;
+        /* padding: 20px 0 0 !important; */
+    }
+    .navbar-default {
+        background-color: #182532;
+        padding: 0 0 20px;
+        right: 0;
+        top: 0;
+        border-bottom: 0;
+        width: 100%;
+        z-index: 10;
+    }
+    .dark-header {
+        background-color: #121212 !important;
+    }
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        border-color: rgba(255, 255, 255, 0.2);
+    }
+    .normal-header .dropdown-menu > li,
+    .normal-header .dropdown-menu > li a {
+        padding-left: 10px;
+    }
+    .normal-header .navbar-nav > li > a {
+        padding: 10px;
+    }
+}
+
+@media (min-width: 992px) {
+    .yamm-fw {
+        position: relative;
+    }
+    .yamm-fw:hover > ul {
+        visibility: visible;
+        opacity: 1;
+        top: 100%;
+    }
+    .navbar-nav .yamm-fw ul {
+        -webkit-transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+        -moz-transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+        -o-transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+        transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+    }
+    .yamm-fw .dropdown-menu {
+        min-width: 240px;
+        padding: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+    }
+    .yamm-fw > ul {
+        position: absolute;
+        top: 130%;
+        visibility: hidden;
+        display: block;
+        opacity: 0;
+        left: 0;
+    }
+    .yamm-fw > ul.start-right {
+        right: 0;
+        left: auto;
+    }
+    .yamm-fw > ul li {
+        position: relative;
+    }
+    .yamm-fw > ul li:hover > ul {
+        visibility: visible;
+        opacity: 1;
+        left: 100%;
+    }
+    .yamm-fw > ul li:hover > ul.show-right {
+        right: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .normal-header.affix {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 9999;
+        padding: 15px 0 !important;
+        width: 100%;
+        background-color: #eceeff !important;
+    }
+    .normal-header.affix.dark-header {
+        background-color: #121212 !important
+    }
+    .normal-header.notfixmenu {
+        background-color: #ffffff !important
+    }
+    .normal-header .navbar-collapse {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .normal-header .hasmenu:hover > ul {
+        visibility: visible;
+        opacity: 1;
+        top: 100%;
+    }
+    .normal-header .navbar-nav .hasmenu ul {
+        -webkit-transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+        -moz-transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+        -o-transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+        transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+    }
+    .normal-header .hasmenu .dropdown-menu {
+        min-width: 220px;
+        padding: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+    }
+    .normal-header .hasmenu > ul {
+        position: absolute;
+        top: 130%;
+        visibility: hidden;
+        display: block;
+        opacity: 0;
+        left: 0;
+    }
+    .normal-header .hasmenu > ul.start-right {
+        right: 0;
+        left: auto;
+    }
+    .normal-header .hasmenu > ul li {
+        position: relative;
+    }
+    .normal-header .hasmenu > ul li:hover > ul {
+        visibility: visible;
+        opacity: 1;
+        left: 100%;
+    }
+    .normal-header .hasmenu > ul li:hover > ul.show-right {
+        right: 100%;
+    }
+    .normal-header .navbar-nav .has-submenu {
+        position: relative;
+    }
+    .normal-header .navbar-nav .has-submenu:hover > ul {
+        visibility: visible;
+        opacity: 1;
+        top: 100%;
+    }
+    .normal-header .navbar-nav .has-submenu:hover > ul li ul {
+        margin-top: -1px;
+    }
+    .normal-header .navbar-nav .has-submenu ul {
+        -webkit-transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+        -moz-transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+        -o-transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+        transition: visibility 0.35s ease-in-out, opacity 0.35s ease-in-out, top 0.35s ease-in-out, bottom 0.35s ease-in-out, left 0.35s ease-in-out, right 0.35s ease-in-out;
+    }
+    .normal-header .navbar-nav .has-submenu .dropdown-menu {
+        min-width: 220px;
+        padding: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+    }
+    .normal-header .navbar-nav .has-submenu > ul {
+        position: absolute;
+        top: 130%;
+        visibility: hidden;
+        display: block;
+        opacity: 0;
+        left: 0;
+    }
+    .normal-header .navbar-nav .has-submenu > ul.start-right {
+        right: 0;
+        left: auto;
+    }
+    .normal-header .navbar-nav .has-submenu > ul li {
+        position: relative;
+    }
+    .normal-header .navbar-nav .has-submenu > ul li:hover > ul {
+        visibility: visible;
+        opacity: 1;
+        left: 105%;
+    }
+    .normal-header .navbar-nav .has-submenu > ul li:hover > ul.show-right {
+        right: 100%;
+    }
+    .normal-header .navbar-nav .has-submenu > ul li ul {
+        position: absolute;
+        top: 0;
+        visibility: hidden;
+        display: block;
+        opacity: 0;
+        left: 130%;
+    }
+    .normal-header .navbar-nav .has-submenu > ul li ul.show-right {
+        right: 130%;
+        left: auto;
+    }
+}

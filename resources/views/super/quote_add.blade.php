@@ -1,0 +1,140 @@
+@extends('super.layouts.app')
+
+@section('after-style')
+@endsection
+    
+@section('content')
+<!-- Content Header (Page header) -->
+    <div class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1 class="m-0">Add Quote</h1>
+          </div>
+
+          <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right">
+              <li class="breadcrumb-item ">Dashboard</li>
+              <li class="breadcrumb-item">Manage Quotes</li>
+              <li class="breadcrumb-item active">Add Quote</li>
+            </ol>
+          </div><!-- /.col -->
+        </div><!-- /.row -->
+      </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+
+    <div class="col-sm-12 offset-sm-3">
+            @if (count($errors) > 0)
+          <div class="alert alert-danger">
+              <strong>Whoops!</strong> There were some problems with your input.<br><br>
+              <ul>
+                  @foreach ($errors->all() as $error)
+                  <li>{{ $error }}</li>
+                  @endforeach
+              </ul>
+          </div>
+          @endif
+          @if(session()->has('success'))
+          <div class="alert alert-success alert-dismissible fade show" role="alert">
+              {{ session()->get('success') }}
+              <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+              </button>
+          </div>
+          @endif
+          @if(session()->has('error'))
+          <div class="alert alert-danger alert-dismissible fade show" role="alert">
+              {{ session()->get('error') }}
+              <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+              </button>
+          </div>
+          @endif
+    </div><!-- /.col -->
+
+    <div class="content">
+      <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <!-- jquery validation -->
+                <div class="card card-primary">
+                  <div class="card-header">
+                    <h3 class="card-title">Add Quote</h3>
+                  </div>
+                  <!-- /.card-header -->
+                  <!-- form start -->
+                  <form id="quickForm" action="{{route('quote-add-post')}}" method="post">
+                    @csrf
+                    <div class="card-body">
+                      <div class="form-group">
+                        <label for="org_name">Quote</label>
+                            <input type="text" class="form-control" name="quote" id="quote">
+                      </div>
+                      <div class="form-group">
+                        <label for="org_url">By</label>
+                            <input type="text" class="form-control" name="by" id="by">  
+                      </div>
+                    </div>
+                    <!-- /.card-body -->
+                    <div class="card-footer">
+                      <button type="submit" class="btn btn-primary float-right">Submit</button>
+                      <a href="{{route('quotes-list')}}" class="btn btn-danger float-right mr-1">Cancel</a>
+                    </div>
+                  </form>
+                </div>
+                <!-- /.card -->
+            </div>
+          </div>
+      </div>
+    </div>
+
+@endsection
+
+@section('after-script')
+<script>
+$(document).ready(function() {
+
+
+  $('#quickForm').validate({
+    rules: {
+      quote: {
+        required: true,
+        minlength: 2,
+        maxlength: 200
+      },
+
+      by: {
+        required: true,
+        minlength: 2,
+        maxlength: 100
+      }
+    },
+    messages: {
+      quote: {
+        required: "Please enter quote",
+        minlength: "Minimum 2 character required",
+        maxlength: "Maximum 200 character allowed"
+      },
+
+      by: {
+        required: "Please enter by",
+        minlength: "Minimum 2 character required",
+        maxlength: "Maximum 100 character allowed"
+      }
+    },
+    errorElement: 'span',
+    errorPlacement: function (error, element) {
+      error.addClass('invalid-feedback');
+      element.closest('.form-group').append(error);
+    },
+    highlight: function (element, errorClass, validClass) {
+      $(element).addClass('is-invalid');
+    },
+    unhighlight: function (element, errorClass, validClass) {
+      $(element).removeClass('is-invalid');
+    }
+  });
+});  
+</script>
+@endsection
